@@ -11,9 +11,9 @@
 // --- 設定 ---
 const CONFIG = {
     // 請填入您的 GCP Client ID
-    CLIENT_ID: '',
+    CLIENT_ID: '1082845308109-k91rd52487ohbsh8ekp4hornou83cg5b.apps.googleusercontent.com',
     // 請填入您的 Google Sheet ID
-    SPREADSHEET_ID: '',
+    SPREADSHEET_ID: '18dZ-HKjZsHzfOq2iiSb-eli1xDVrtgyglCj-Far1GVg',
 
     // Google Sheets Discovery Doc
     DISCOVERY_DOC: 'https://sheets.googleapis.com/$discovery/rest?version=v4',
